@@ -1,0 +1,14 @@
+{
+  "resourceName": "homepageContentDB",
+  "policyUUID": "4b568470",
+  "bucketName": "homepage527dbfa434934421aa42369b009b64b1",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
